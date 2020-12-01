@@ -29,7 +29,7 @@ The geometry of the 2nd antenna was created  exclusively through 4nec2 software.
 
 ##  Project B
 
-The 2nd project is related to **BeamForming** and **Direction of Arrival** (**DoA**) algorithms and aims at the understanding of such techniques. More specifically, **NSB-DL **beamformer was analysed for varying SNR and minimum angle difference for incoming signals. The project also analyzes the performance of block-data weight adaptation achieved, using the **Sample Matrix Inversion (SMI)** algorithm. Finally, the limit angle difference for two signals in order to be seperately identified for the **CAPON** DoA algorithm, is considered. 
+The 2nd project is related to **BeamForming** and **Direction of Arrival** (**DoA**) algorithms and aims at the understanding of such techniques. More specifically, **NSB-DL** beamformer was analysed for varying SNR and minimum angle difference for incoming signals. The project also analyzes the performance of block-data weight adaptation achieved, using the **Sample Matrix Inversion (SMI)** algorithm. Finally, the limit angle difference for two signals in order to be seperately identified for the **CAPON** DoA algorithm, is considered. 
 
 
 
