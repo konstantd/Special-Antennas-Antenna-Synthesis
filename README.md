@@ -10,7 +10,7 @@ This repository contains the assignments for the Academic Course “Special Ante
 
 ## Project A
 
-The goal of the Project was the analysis and optimization of three antennas with different parameters. For the simulations 4nec2 software was used after the construction of the geometry of the antennas using MATLAB.  
+The goal of the Project was the analysis and optimization of three antennas with different parameters. For the simulations 4nec2 software was used, after the construction of the geometry of the antennas using MATLAB.  
 
 The antennas which were analysed are: 
 
